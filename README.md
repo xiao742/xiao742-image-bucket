@@ -1,3 +1,11 @@
+<!--
+ * @Author: Mr.xiao
+ * @Date: 2023-09-15 17:00:06
+ * @LastEditTime: 2023-09-15 17:02:04
+ * @LastEditors: 雨落潇潇
+ * @Description: REAEME.md
+ * @text: 惑而不从师,其为惑也,终不解矣.
+-->
 # wangsr-image-bucket
 
 #### 通过 jsdelivr cdn 来访问
@@ -26,7 +34,7 @@
 npm install -S live2d-widget
 
 ------------------------------
-在需要引入的页面如下：
+在需要引入的页面进行如下操作：
 import {L2Dwidget} from 'live2d-widget'
 
 .....
